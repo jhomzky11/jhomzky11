@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhomzky11
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Machine Learning and Automation
+- 💞️ I’m looking to collaborate on creating a Machine Learning and Automation
 - 📫 How to reach me ...
 
 <!---
